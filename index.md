@@ -1,19 +1,4 @@
-<!-- Drop this anywhere in your README.md or page HTML -->
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']],
-      processEscapes: true
-    },
-    options: {
-      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
-    }
-  };
-</script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+
 
 <script>
   window.MathJax = {
@@ -33,8 +18,8 @@
 # The Gradient Fraud [Checklist](https://jhufena.github.io/y26m01d28/): A Diagnostic Tool
 ### *Detecting the Trap Before You Begin the Descent*
 
-**Theory:** Societal Hydrodynamics
-**Objective:** To determine if a system (Corporate, Political, or Algorithmic) is optimizing for your growth (Pasture) or your capture (Trap).
+**Theory:** Societal Hydrodynamics             
+**Objective:** To determine if a system (Corporate, Political, or Algorithmic) is optimizing for your growth (Pasture) or your capture (Trap).     
 
 ---
 
