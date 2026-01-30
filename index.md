@@ -100,7 +100,7 @@ $$
 ---
 
 ## 5. The Erosion Test (The "History" Check)
-**Theory:** *Amazi gakulukuta we tagakulukutiranga*. Water flows where the channel is deepest.
+**Theory:** *[Amazi tegakulukuta we tagakulukutiranga](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence)*. Water flows where the channel is deepest.
 
 **The Math:**
 $$
