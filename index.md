@@ -13,7 +13,7 @@
   };
 </script>
 <script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> 
 </script>
 # The Gradient Fraud [Checklist](https://jhufena.github.io/y26m01d28/): A Diagnostic Tool
 ### *Detecting the Trap Before You Begin the Descent*
@@ -26,8 +26,8 @@
 ## 1. The Erosion Test (The "History" Check): `Invariant, Transform`
 **Theory:** *[Amazi tegakulukuta we tagakulukutiranga](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence)*. Water flows where the channel is deepest.
 
-- $\eta$ Invariant, $x$
-- $\theta_{t} = \theta_{t-1} - \eta \nabla L(\theta_{t-1})$ Transform, $y$
+- $\eta$ [Invariant](https://ukb-pyro.github.io/y26m01d28/), $x$
+- $\theta_{t} = \theta_{t-1} - \eta \nabla L(\theta_{t-1})$ [Transform](), $y$
 
 **The Math:**
 $$
