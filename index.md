@@ -23,8 +23,11 @@
 
 ---
 
-## 1. The Erosion Test (The "History" Check): `Invariant, Transformation`
+## 1. The Erosion Test (The "History" Check): `Invariant, Transform`
 **Theory:** *[Amazi tegakulukuta we tagakulukutiranga](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence)*. Water flows where the channel is deepest.
+
+- $\eta$ Invariant, $x$
+- $\theta_{t} = \theta_{t-1} - \eta \nabla L(\theta_{t-1})$ Transform, $y$
 
 **The Math:**
 $$
