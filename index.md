@@ -19,29 +19,26 @@
 ### *Detecting the Trap Before You Begin the Descent*
 
 **Theory:** Societal Hydrodynamics             
-**Objective:** To determine if a system (Corporate, Political, or Algorithmic) is optimizing for your growth (Pasture) or your capture (Trap).     
+**Objective:** To determine if a system (Corporate, Political, or Algorithmic) is optimizing for your growth (Pasture) or your capture (Trap).   
 
 ---
 
-## 1. The Proxy Metric Test (The "Goodhart" Check)
-**Theory:** In a fraudulent system, the *declared* loss function ($L_{public}$) differs from the *optimized* loss function ($L_{hidden}$).
+## 1. The Erosion Test (The "History" Check): `Invariant, Transformation`
+**Theory:** *[Amazi tegakulukuta we tagakulukutiranga](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence)*. Water flows where the channel is deepest.
 
 **The Math:**
 $$
-L_{hidden}(\theta) \neq L_{public}(\theta)
+\theta_{t} = \theta_{t-1} - \eta \nabla L(\theta_{t-1})
 $$
+* Current position is a function of past positions.
 
 **The Diagnostic Question:**
-> "Is the metric they display (e.g., 'Safety', 'Community', 'Democracy') the actual variable that determines their survival?"
+> "Who dug this channel before I got here? What is the *historical* path of least resistance?"
 
-* **Green Flag (Pasture):** The organization dies if the user fails. (e.g., A subscription service that only retains users if they succeed).
-* **Red Flag (Trap):** The organization profits even if (or *because*) the user fails. (e.g., A casino, a social media feed optimizing for outrage/engagement time, a defense contractor paid by 'cost-plus').
+* **Green Flag (Pasture):** The infrastructure was built by people who share your incentives (e.g., Open Source, Co-ops).
+* **Red Flag (Trap):** The infrastructure was built by a monopoly or a colonial power. Even if the current leader is "nice," the *gravity* of the trench will eventually pull them into corruption.
 
-
-
----
-
-## 2. The Sensor Sovereignty Test (The "Boeing" Check)
+## 2. The Sensor Sovereignty Test (The "Boeing" Check): `Trajectory + Noise`
 **Theory:** Robust systems use *Ensemble Learning* (many sensors). Tyrannical systems use *Dictatorship* (one sensor) to override reality.
 
 **The Math:**
@@ -62,7 +59,27 @@ $$
 
 ---
 
-## 3. The Convexity Test (The "Exit" Check)
+## 3. The Proxy Metric Test (The "Goodhart" Check): `Coooperative`
+**Theory:** In a fraudulent system, the *declared* loss function ($L_{public}$) differs from the *optimized* loss function ($L_{hidden}$).
+
+**The Math:**
+$$
+L_{hidden}(\theta) \neq L_{public}(\theta)
+$$
+
+**The Diagnostic Question:**
+> "Is the metric they display (e.g., 'Safety', 'Community', 'Democracy') the actual variable that determines their survival?"
+
+* **Green Flag (Pasture):** The organization dies if the user fails. (e.g., A subscription service that only retains users if they succeed).
+* **Red Flag (Trap):** The organization profits even if (or *because*) the user fails. (e.g., A casino, a social media feed optimizing for outrage/engagement time, a defense contractor paid by 'cost-plus').
+
+
+
+---
+
+
+
+## 4. The Convexity Test (The "Exit" Check): `Adversarial`
 **Theory:** A benevolent system is *Convex* (bowl-shaped); mistakes lead you back to the center. A malevolent system is *Non-Convex* (rugged); mistakes lead to local minima (pits) you cannot climb out of.
 
 **The Math:**
@@ -81,7 +98,7 @@ $$
 
 ---
 
-## 4. The Velocity Test (The "Still Waters" Check)
+## 5. The Velocity Test (The "Still Waters" Check): `Transactional`
 **Theory:** High velocity prevents deliberation. Fraud relies on *momentum* to force you past the warning signs.
 
 **The Math:**
@@ -94,25 +111,10 @@ $$
 **The Diagnostic Question:**
 > "Is the system trying to rush me? Is it manufacturing urgency?"
 
-* **Green Flag (Pasture):** "Still Waters." Cooling-off periods. Due process. Stable coins. Long-term vesting.
+* **Green Flag (Pasture):** "[Still Waters](https://www.wordproject.org/bibles/lug/19/23.htm)." Cooling-off periods. Due process. Stable coins. Long-term vesting.
 * **Red Flag (Trap):** "Act Now!" FOMO. Emergency Powers. Flash crashes. The plane nosing down instantly. Accelerated approval processes.
 
----
 
-## 5. The Erosion Test (The "History" Check)
-**Theory:** *[Amazi tegakulukuta we tagakulukutiranga](https://en.wikipedia.org/wiki/The_Anxiety_of_Influence)*. Water flows where the channel is deepest.
-
-**The Math:**
-$$
-\theta_{t} = \theta_{t-1} - \eta \nabla L(\theta_{t-1})
-$$
-* Current position is a function of past positions.
-
-**The Diagnostic Question:**
-> "Who dug this channel before I got here? What is the *historical* path of least resistance?"
-
-* **Green Flag (Pasture):** The infrastructure was built by people who share your incentives (e.g., Open Source, Co-ops).
-* **Red Flag (Trap):** The infrastructure was built by a monopoly or a colonial power. Even if the current leader is "nice," the *gravity* of the trench will eventually pull them into corruption.
 
 ---
 
