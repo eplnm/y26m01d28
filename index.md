@@ -48,6 +48,7 @@ $$
 $$
 \text{Tyranny} \iff y_{control} = f(x_{single})
 $$
+
 $$
 \text{Democracy} \iff y_{control} = f(\frac{1}{n}\sum_{i=1}^n x_i)
 $$
@@ -64,6 +65,7 @@ $$
 **Theory:** A benevolent system is *Convex* (bowl-shaped); mistakes lead you back to the center. A malevolent system is *Non-Convex* (rugged); mistakes lead to local minima (pits) you cannot climb out of.
 
 **The Math:**
+
 $$
 \nabla^2 f(x) \succeq 0 \quad (\text{Positive Semi-Definite Hessian = Convex})
 $$
@@ -82,6 +84,7 @@ $$
 **Theory:** High velocity prevents deliberation. Fraud relies on *momentum* to force you past the warning signs.
 
 **The Math:**
+
 $$
 v = \frac{dy}{dt}
 $$
