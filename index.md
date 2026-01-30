@@ -45,6 +45,7 @@ $$
 **Theory:** Robust systems use *Ensemble Learning* (many sensors). Tyrannical systems use *Dictatorship* (one sensor) to override reality.
 
 **The Math:**
+
 $$
 \text{Tyranny} \iff y_{control} = f(x_{single})
 $$
